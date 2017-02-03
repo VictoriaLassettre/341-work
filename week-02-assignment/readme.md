@@ -22,11 +22,11 @@ git commit -m 'initial commit for the repository and test1.rtf.txt'
 
 ## 3. Problems
 
-- I honestly didn't have too many problems and were easily solved by going back over the material covered in the lectures or a quick google search.
+- Besides having issues on being able to commit to GibHub, I honestly didn't have too many problems and were easily solved by going back over the material covered in the lectures or a quick google search.
 
 ## 4. Something Interesting
 - Nothing in particular, but as a complete beginner in the world of web development any further discussion in the use of markdown in Atom or other TextEditors would be appreciated.
 ## 5. Helping Peers
 - Unfortunately I did not help any of my classmates with the work presented in this homework cycle.
 
-## ![Image of my editor](Readme.mdscreenshot.jpeg)
+![Image of my TextEditor](Texteditor.png)

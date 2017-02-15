@@ -1,7 +1,8 @@
 # Week 3 Report
   Victoria Lassettre
+
 ## Homework Steps
-- Read the online notes and text--learned about things such as <title>, <h1>, and </h2>.
+- Read the online notes and text--learned about things such as ``<title>``, ``<h1>``, and ``</h2>``.
 - Created an index.html
 - Edited the index.html with the inital comments; figured out what happens when you forget to close the tag properly by forgetting the /.
 - Formatted a sonnet I wrote two years ago on my first webpage. I fiddled around added colors to my webpage.

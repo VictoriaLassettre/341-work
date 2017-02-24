@@ -26,6 +26,7 @@ git commit -m 'initial commit for the repository and test1.rtf.txt'
 
 ## 4. Something Interesting
 - Nothing in particular, but as a complete beginner in the world of web development any further discussion in the use of markdown in Atom or other TextEditors would be appreciated.
+
 ## 5. Helping Peers
 - Unfortunately I did not help any of my classmates with the work presented in this homework cycle.
 

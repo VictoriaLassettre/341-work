@@ -6,7 +6,7 @@
 - I then created ``index.html`` and selected my recipe for the week.
 - I then created a second page and linked it to the one mentioned above and to my original webpage from last week.
 - After all of that I created the ``readme.md`` for this week's report.
-![Image of work](meep.png)
+![Image of work](imgs/meep.png)
 
 ## Trials and Tribulations
 - This week wasn't too bad, my biggest problem was making sure I included the '/' after I finished writing.
@@ -18,27 +18,27 @@
 
 The first website I looked at was the ``White House`` on the dates of December 27, 1996 and January 19, 2017.
 
-December 27, 1996
-![Image of white house](WhiteHouse96.png)
-![Image of white house](WhiteHousecode96.png)
+December 27, 1996:
+![Image of white house](imgs/WhiteHouse96.png)
+![Image of white house](imgs/WhiteHousecode96.png)
 
-January 19, 2017
-![Image of white house](WhiteHouse17.png)
-![Image of white house](WhiteHousecode17.png)
+January 19, 2017:
+![Image of white house](imgs/WhiteHouse17.png)
+![Image of white house](imgs/WhiteHousecode17.png)
 
 As you can see the White House web page has changed quite a bit since 1996.
 
 The second website I chose to look at was ``tumblr`` as I knew it was a younger website--it just celebrating its 10th birthday this past month--and would be more complex than the 20 year old White House Page.
 
-January 5, 2007
-![Image of tumblr](Tumblr07.png)
+January 5, 2007:
+![Image of tumblr](imgs/Tumblr07.png)
 
-![Image of tumblr](Tumblrcode07.png)
+![Image of tumblr](imgs/Tumblrcode07.png)
 
-February 23, 2017
-![Image of tumblr](Tumblr17.png)
+February 23, 2017:
+![Image of tumblr](imgs/Tumblr17.png)
 
-![Image of tumblr](Tumblrcode17.png)
+![Image of tumblr](imgs/Tumblrcode17.png)
 
 Tumblr has certainly far more creative and colorful in the past ten years and has a much more stream line process of logging in or creating an account.
 

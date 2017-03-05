@@ -13,7 +13,7 @@
     <h1>
       A Questionnaire
     </h1>
-  <form class="buff_form" action="#" method="get">
+  <form action="mailto:victoria.lassettre@umontana.edu" method="post" enctype="multipart/form-data" name="EmailTestForm">
     <fieldset>
         <label for="name">What is your preferred name?</label>
         <input type="text" name="name" placeholder="Your name" autofocus required>
@@ -29,14 +29,14 @@
         <input type="radio" name="streaming service" value="applemusic"> iTunes <br />
       </fieldset>
     <fieldset>
-      <label for="genre">What is your favorite genre of music? (select one)</label><br />
-      <input type="radio" name="genre" value="rock"> Rock<br />
-      <input type="radio" name="genre" value="pop"> Pop<br />
-      <input type="radio" name="genre" value="classical"> Classical <br />
-      <input type="radio" name="genre" value="musical/soundtrack"> Musical/Soundtrack <br />
-      <input type="radio" name="genre" value="jazz"> Jazz <br />
-      <input type="radio" name="genre" value="hiphop"> Hip Hop <br />
-      <input type="radio" name="genre" value="other"> Other <br />
+      <label for="genre">What is your favorite genre of music? (select all that apply)</label><br />
+      <input type="checkbox" name="genre" value="rock"> Rock<br />
+      <input type="checkbox" name="genre" value="pop"> Pop<br />
+      <input type="checkbox" name="genre" value="classical"> Classical <br />
+      <input type="checkbox" name="genre" value="musical/soundtrack"> Musical/Soundtrack <br />
+      <input type="checkbox" name="genre" value="jazz"> Jazz <br />
+      <input type="checkbox" name="genre" value="hiphop"> Hip Hop <br />
+      <input type="checkbox" name="genre" value="other"> Other <textarea name="song" cols="20" rows="2" style="min-width:100%"></textarea><br />
     </fieldset>
     <fieldset>
       <p>Which of these popular contemporary artists/bands are you a fan of? </p><br />
@@ -49,6 +49,7 @@
       </select>
     </fieldset>
     <input type="submit" name="submit" value="Submit" />
+    <input type="reset">
   </fieldset>
   </form>
   <hr />

@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+h1 {
+  color: rgb(0, 0, 0);
+  font-family: 'Lobster', cursive;
+  font-size: 40px;
+  text-align: center;}
+h2 {
+    color: rgb(0, 0, 0);
+    font-family: 'Playfair Display', serif;
+    font-size: 32px;
+    text-align: center;}
+h3 {
+      color: rgb(0, 0, 0);
+      font-family: 'Playfair Display', serif;
+      font-size: 24px;
+      text-align: center;}
+body {
+        color: rgb(0, 0, 0);
+        font-family: 'Libre Baskerville', serif;
+        font-size: 18px;
+        line-height: 1.4em;
+        text-align: center;
+        text-indent: 20px;
+        word-spacing: normal;
+        background-color: rgb(240,198,230);
+      }
+  p.one::first-letter {font-size: 32px}
+  .butterfly {
+    color: rgb(26,0,255);
+  }
+  .Marguerite {
+      color: rgb(255,247,0);
+  }
+  .pea-blossom {
+      color: rgb(255,46,46);
+  }
+  .mint {
+    color: rgb(83,171,110)
+  }
+
+#title{
+  color: rgb(0,0,0);
+  font-style: italic;
+  text-align: center;
+}
+#title:hover {
+    background-color: rgb(198,240,215);
+}

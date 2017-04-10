@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+@import url('https://fonts.googleapis.com/css?family=Lora');
+
+#site-header {
+background-color: rgb(229,204,255);
+margin: 0;
+height: 100px;
+}
+#title {
+float: center;
+margin-center:.5em;
+font-family: 'Lobster', cursive;
+font-size: 100px
+color: rgb(0,0,0);
+}
+#side-menu {
+  margin: 0;
+  padding: .125;
+  float; left;
+  width: 15%;
+  max-height: 375px;
+  height: 125%;
+  background-color: rgb(255,204,229);
+}
+#content {
+          width: 100%;
+          margin: 0 auto;
+          overflow: auto;}
+#Godiva:hover a {
+  color: rgb(153,51,255);
+}
+#Sees:hover a {
+  color: rgb(153,51,255);
+}
+#body {
+       margin: 0;
+       padding: 0;
+       float: right;
+       width: 85%;
+       max-height: 420px;
+       height: 100%;
+       font-family: 'Lora', serif;
+       background-color: rgb(255, 204, 229);
+       overflow: scroll;
+}
+#contact {
+      margin: 0;
+      padding: 0;
+      float: right;
+      width: 100%;
+      max-height: 420px;
+      height: 100%;
+      font-family: 'Lora', serif;
+      background-color: rgb(255, 204, 229);
+}
+.menu-container {
+                 background-color: rgb(155, 155, 155);
+                 margin: 0;
+                 padding: 0;
+}
+
+.menuitem {
+          display: inline-block;
+          padding: 0.5em 1em;
+          padding-right: 2.5em;
+          text-align: left;
+          text-decoration: none;
+          font-family: 'Lobster', cursive;
+          color: rgb(76, 0, 153);
+}
+.menuitem:hover, .dropdown:hover {
+                                  color: rgb(204, 204, 255);
+                                  background-color: rgb(229, 204, 255);
+}
+.dropdown {
+           display: inline-block;
+           width: 15%;
+           min-width: 75px;}
+
+.dropdown-items {
+                   display: none;
+                   position: absolute;
+                   border: 5px solid rgb(0, 0, 0);
+                   margin: 0;
+                   color: rgb(0, 0, 0);
+                   background-color: rgb(255, 255, 255);
+                   z-index: 1;}
+
+.dropdown-items a {
+                     color: rgb(0, 0, 0);
+}
+
+.dropdown:hover .dropdown-items {
+                                   display: block;
+}
+
+.dropdown-item {
+                display: block;
+                text-align: left;
+                font-family: 'Lobster', cursive;
+                margin: 0;
+                padding: 0.75em;
+                min-width: 8em;
+}
+
+.dropdown-item:hover, .dropdown-item:hover a {
+                                              color: rgb(255, 255, 255);
+                                              background-color: rgb(11, 175, 0);
+}

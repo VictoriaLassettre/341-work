@@ -3,6 +3,10 @@
 ## Summary
 - After completing all of the reading and creating the `index.html`, `readmd.md`, `CSS Folder`, and the `imgs Folder` with all of their respective files.
 - The goal of this week's website was to explain why Responsive Web Design is ever important in today's ever changing times.
+![Image of WireFrame Desktop](./imgs/WireFrame-Desktop.png)
+Layout for Desktop
+![Image of WireFrame Mobile](./imgs/WireFrame-Mobile.png)
+Layout for Mobile/Tablet
 ## Troubles
 - Didn't have too many problems that weren't easily fixable, but did have a bit of a hard time trying to figure out what type of layout I wanted to use.
 ## Commentary

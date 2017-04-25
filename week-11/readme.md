@@ -12,3 +12,7 @@
 
 ## Future Plans:
 - I have my idea for the final project and I am excited to see if I can pull it off successfully!
+
+Sources:
+[Current Politics](http://www.advantageaustria.org/international/zentral/business-guide-oesterreich/zahlen-und-fakten/auf-einen-blick/politisches-system.en.html)
+[History of Austria](http://www.austria.info/us/basic-facts/about-austria/history)
